@@ -57,7 +57,7 @@ void loop() {
   }
 
   // very light telemetry
-  // Serial.print(att.roll); Serial.print(',');
+  Serial.print(att.roll); Serial.print(',');
   // Serial.print(att.pitch); Serial.print(',');
   // Serial.print(att.yaw); Serial.print(',');
   // Serial.println(emiNorm, 3);
