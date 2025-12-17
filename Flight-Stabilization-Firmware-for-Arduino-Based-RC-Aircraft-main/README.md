@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Flight-Stabilization-Firmware-for-Arduino-Based-RC-Aircraft
 Embedded C++ system implementing real-time IMU fusion, PID control, and servo actuation for roll, pitch, and yaw stabilization on Arduino Uno
 # Flight Stabilization Firmware – 5 Servo RC Aircraft
@@ -57,7 +56,3 @@ This project implements a real-time flight stabilization system for Arduino-base
 Simon Fraser University – Computer Engineering  
 📧 [alejandro.chop99@gmail.com](mailto:alejandro.chop99@gmail.com)  
 🔗 [github.com/Alejandrochop99](https://github.com/Alejandrochop99)
-=======
-# Rocket-stablizing-fin-project
-Hope to use MPU6050 and servo to achieve the goal of "automatic stablizing rocket fin"
->>>>>>> 6ae0dd1599f8cd03b7e33a1ce3fdbaf16c421d67
